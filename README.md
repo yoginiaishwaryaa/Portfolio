@@ -4,12 +4,6 @@ An interactive personal portfolio website built to showcase projects, skills, an
 
 ---
 
-## 🔗 Live Demo
-
-👉 [https://yoginiaishwaryaa.github.io/Portfolio](https://yoginiaishwaryaa.github.io/Portfolio)
-
----
-
 ## ✨ Features
 
 * 🎨 Modern pastel-themed UI
@@ -47,7 +41,6 @@ This portfolio was created to:
 
 ---
 
----
-
 ⭐ If you like this project, consider giving it a star!
+
 
