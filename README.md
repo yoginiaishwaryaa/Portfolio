@@ -4,14 +4,14 @@ An interactive personal portfolio website built to showcase projects, skills, an
 
 ---
 
-## ✨ Features
+##  Features
 
-* 🎨 Modern pastel-themed UI
-* 🌀 Smooth scroll-driven animations and transitions
-* ⚡ Fast and responsive design
-* 🧩 Modular and reusable components
-* 📱 Fully responsive (desktop & mobile)
-* 🛠️ Clean project and skills showcase
+*  Modern pastel-themed UI
+*  Smooth scroll-driven animations and transitions
+*  Fast and responsive design
+*  Modular and reusable components
+*  Fully responsive (desktop & mobile)
+*  Clean project and skills showcase
 
 ---
 
@@ -31,7 +31,7 @@ An interactive personal portfolio website built to showcase projects, skills, an
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This portfolio was created to:
 
@@ -42,6 +42,7 @@ This portfolio was created to:
 ---
 
 ⭐ If you like this project, consider giving it a star!
+
 
 
 
